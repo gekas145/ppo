@@ -24,7 +24,7 @@ The recording shows trained actor playing in enviroment with low probability of 
 
 [3] Berkeley RL Bootcamp, [https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 
-[4] Gymnasium documentation, [https://gymnasium.farama.org/index.html](https://gymnasium.farama.org/index.html)
+[4] Gymnasium Documentation, [https://gymnasium.farama.org/index.html](https://gymnasium.farama.org/index.html)
 
 [5] OpenAI spinning up in Deep RL, [https://spinningup.openai.com/en/latest/](https://spinningup.openai.com/en/latest/)
 
