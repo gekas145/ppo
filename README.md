@@ -1,6 +1,6 @@
-# Policy Proximal Optimization
+# Proximal Policy Optimization
 
-This repo contains Python implementation of Policy Proximal Optimization algorithm [[1]](#references). It is tested on 2 tasks, one employing continuous and one - discrete policy. Actor models in both tasks used combinations of convolutional(CNN) and fully connected layers and parametrize some random distributions which are used for policies.
+This repo contains Python implementation of Proximal Policy Optimization algorithm [[1]](#references). It is tested on 2 tasks, one employing continuous and one - discrete policy. Actor models in both tasks used combinations of convolutional(CNN) and fully connected layers and parametrize some random distributions which are used for policies.
 
 # Car Racing
 
